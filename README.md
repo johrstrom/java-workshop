@@ -6,9 +6,18 @@ Each Tag is a completed assgiment, so if you pull this repo check out the tags f
 
 Each assignment is documented on the wiki of this repo and there should be links here on this README.
 
-### Links to Assigments
+## Links to Assigments
 [Assignment 1](https://github.com/johrstrom/java-workshop/wiki/Assignment-1)
+[Assignemnt 2](https://github.com/johrstrom/java-workshop/wiki/Assignment-2)
 
-### Building
+## Building
 
 `mvn clean package`
+
+## Running
+
+See the given wiki for what arguements you'll have to pass. But the general format is:
+
+`java -jar target/workshop-0.0.1-SNAPSHOT.jar  <assignment number> <args for that assingment>`
+
+##
