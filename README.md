@@ -18,6 +18,6 @@ Each assignment is documented on the wiki of this repo and there should be links
 
 See the given wiki for what arguements you'll have to pass. But the general format is:
 
-`java -jar target/workshop-0.0.1-SNAPSHOT.jar  <assignment number> <args for that assingment>`
+`java -jar target/workshop-<version>.jar  <assignment number> <args for that assingment>`
 
 ##
